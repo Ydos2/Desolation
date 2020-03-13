@@ -9,7 +9,8 @@ Author : Mathias Ressort (Ydos)<br />
          Justine Fricou<br />
          Ode Marchand<br />
          Wilfried Garcia<br />
-         Alexandre Tisso
+         Alexandre Tisso<br />
+Music :  Masami KOMURO
 
 ## Screenshot
 ![screenshot](https://github.com/Ydos2/Desolation/blob/master/Doc/Capture_1.PNG)
